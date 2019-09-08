@@ -1,0 +1,2 @@
+# barapass
+Simple password manager
