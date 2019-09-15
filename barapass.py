@@ -81,12 +81,6 @@ def get_container_content(container_file_name, container_password):
     print(container_data['status'])
     return(container_data)
 
-def decrypt_raw_file(raw_file_name, container_file_name, container_password):
-    print(raw_file_name)
-    print(container_file_name)
-    print(container_password)
-
-
 def encrypt_raw_file(raw_file_name, container_file_name, container_password):
     f = open(raw_file_name)
     data = f.read().encode("utf8")
@@ -107,6 +101,7 @@ def encrypt_raw_file(raw_file_name, container_file_name, container_password):
     f.write(json.dumps(container))
     f.close()
 
+    print("OK: Container " + container_file_name + " was created successfully")
 
 def get_plaintext(container_file_name, container_password):
     key = hashlib.sha256(container_password.encode("utf8")).digest()
