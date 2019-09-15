@@ -52,7 +52,7 @@ def process_search_loop(search_request, lines): #Search
             print("Found: " + address)
         for address in found_addresses:
             value = get_values_by_address(address, lines)
-            print("Coppied to clipboard: " + address + " (next value: Y/n)", end=" ")
+            print("Copied to clipboard: " + address + " (next value: Y/n)", end=" ")
             clipboard.copy(value[address])
             answer = input()
             if answer == "n":
@@ -81,6 +81,7 @@ def get_container_content(container_file_name, container_password):
     print(container_data['status'])
     return(container_data)
 
+
 def encrypt_raw_file(raw_file_name, container_file_name, container_password):
     f = open(raw_file_name)
     data = f.read().encode("utf8")
@@ -102,6 +103,7 @@ def encrypt_raw_file(raw_file_name, container_file_name, container_password):
     f.close()
 
     print("OK: Container " + container_file_name + " was created successfully")
+
 
 def get_plaintext(container_file_name, container_password):
     key = hashlib.sha256(container_password.encode("utf8")).digest()
@@ -198,7 +200,7 @@ def run_cli(favorite_commands):
 
 
 parser = argparse.ArgumentParser(description='Simple password manager')
-parser.add_argument('--interactive', help='list all available groups and paramaeters', action="store_true")
+parser.add_argument('--interactive', help='list all available groups and parameters', action="store_true")
 
 args = parser.parse_args()
 favorite_commands = []
