@@ -1,0 +1,10 @@
+### My Email ###
+MyEmail|URL|https://yandex.ru
+MyEmail|account|my_email@yandex.ru
+MyEmail|password|password1234
+
+### My Server ###
+MyServer|SSH_Command|ssh user@server.com
+MyServer|SSH_Password|password1234
+MyServer|DB_User|testuser
+MyServer|DB_Password|testpass123
