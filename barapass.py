@@ -204,6 +204,9 @@ parser.add_argument('--interactive', help='list all available groups and paramet
 
 args = parser.parse_args()
 favorite_commands = []
+f = open("favorite_commands.txt","r")
+favorite_commands = f.read().split("\n")
+f.close()
 
 if args.interactive:
     run_cli(favorite_commands)
