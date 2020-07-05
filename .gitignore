@@ -6,3 +6,11 @@ archive/old_functions
 .idea/misc.xml
 .idea/inspectionProfiles/profiles_settings.xml
 .idea/barapass.iml
+__pycache__/functions_files.cpython-38.pyc
+__pycache__/functions_files.cpython-37.pyc
+__pycache__/functions_data_lines.cpython-38.pyc
+__pycache__/functions_data_lines.cpython-37.pyc
+__pycache__/functions_containers.cpython-38.pyc
+__pycache__/functions_containers.cpython-37.pyc
+__pycache__/functions_cli.cpython-38.pyc
+__pycache__/functions_cli.cpython-37.pyc

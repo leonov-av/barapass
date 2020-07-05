@@ -1,0 +1,4 @@
+{
+  "startup_command": "u testcred.brp",
+  "favorite_commands": ["s MyServer"]
+}

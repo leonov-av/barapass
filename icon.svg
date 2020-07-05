@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="21mm"
+   height="21mm"
+   viewBox="0 0 21 21"
+   version="1.1"
+   id="svg4538"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="icon.svg"
+   inkscape:export-filename="C:\Users\Alexander\Desktop\Scripts\barapass\icon.png"
+   inkscape:export-xdpi="535"
+   inkscape:export-ydpi="535">
+  <defs
+     id="defs4532" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.6"
+     inkscape:cx="97.863584"
+     inkscape:cy="51.451028"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="2880"
+     inkscape:window-height="1526"
+     inkscape:window-x="2869"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata4535">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-276)">
+    <path
+       style="fill:#000000;stroke-width:0.05829578"
+       d="m 3.9772434,296.59167 c -0.3944,-0.11983 -0.80966,-0.41644 -1.03469,-0.7391 -0.38972,-0.55879 -0.37662,-0.33825 -0.35864,-6.04 l 0.0163,-5.15632 0.1314,-0.27866 c 0.38552,-0.81763 1.07551,-1.19203 2.19679,-1.19203 h 0.57751 l 0.0255,-1.34092 c 0.0217,-1.1446 0.0442,-1.40846 0.15342,-1.8023 0.28224,-1.0175 0.92408,-1.98611 1.69556,-2.55877 1.53565,-1.13995 3.5363296,-1.3411 5.2369596,-0.52657 1.28594,0.61592 2.18694,1.69669 2.57212,3.08534 0.10924,0.39384 0.13171,0.6577 0.15343,1.8023 l 0.0255,1.34092 0.56899,6.6e-4 c 0.31295,4.5e-4 0.71292,0.0381 0.88884,0.084 0.41954,0.10934 0.89956,0.43833 1.12462,0.77091 0.36791,0.54367 0.35676,0.34603 0.33922,6.01212 l -0.016,5.15731 -0.13371,0.28378 c -0.21759,0.46182 -0.50516,0.75728 -0.94192,0.96775 l -0.39492,0.19032 -6.27667,0.0112 c -5.3138396,0.008 -6.3185396,-0.001 -6.5494996,-0.0718 z m 9.4929696,-14.57401 c -7.8e-4,-0.64234 -0.0287,-1.28396 -0.0622,-1.42582 -0.17927,-0.7615 -0.80922,-1.56032 -1.5179,-1.92482 -1.26782,-0.65209 -2.5761796,-0.46538 -3.5753496,0.51021 -0.78035,0.76192 -0.91232,1.17247 -0.91232,2.83814 v 1.17019 h 3.0345896 3.03458 l -0.002,-1.1679 z"
+       id="path843"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccsccccccscccssccccscccccssccccc"
+       inkscape:export-filename="C:\Users\Alexander\Desktop\barapass.png"
+       inkscape:export-xdpi="535.81134"
+       inkscape:export-ydpi="535.81134" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="6.3582349"
+       y="293.93698"
+       id="text819-3"
+       inkscape:export-filename="C:\Users\Alexander\Desktop\barapass.png"
+       inkscape:export-xdpi="535.81134"
+       inkscape:export-ydpi="535.81134"><tspan
+         sodipodi:role="line"
+         id="tspan817-1"
+         x="6.3582349"
+         y="293.93698"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.69999981px;font-family:'Microsoft Tai Le';-inkscape-font-specification:'Microsoft Tai Le Bold';fill:#ffffff;stroke-width:0.26458332">&gt;</tspan></text>
+  </g>
+</svg>

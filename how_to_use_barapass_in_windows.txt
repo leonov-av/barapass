@@ -1,0 +1,12 @@
+1. Run cmd as Administrator
+2. cd to the folder, for examople
+cd C:\Users\Alexander\Desktop\Scripts\barapass
+3. Install requirements with pip
+"C:\Program Files\Python38\Scripts\pip3.8.exe" install -r requirements.txt
+4. Run barapass.cmd
+
+Additions: 
+
+1. To run it easier you can make right click on barapass.cmd and create a shortcut or Send to -> Desktop (create shortcut)
+2. If you want pin the shortcut to Start menu or a task bar open the shortcut and edit the Target, make it `cmd /c "path"` and press Apply
+3. You can chage the icon to shortcut to barapass.ico
