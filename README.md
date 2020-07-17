@@ -1,4 +1,6 @@
 # barapass
 Simple password manager
+![screenshot](https://avleonov.com/wp-content/uploads/2020/07/barapass.png)
 
-Password for testcred.brp file password123
+
+The password for test container testcred.brp is "password123"
