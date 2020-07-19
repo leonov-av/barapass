@@ -55,7 +55,7 @@ def get_plaintext_from_container_file(container_file_name, container_password):
 def make_raw_file_from_container_file(container_file_name, raw_file_name, container_password):
     plaintext = get_plaintext_from_container_file(container_file_name, container_password)
     if plaintext != "":
-        f = open(raw_file_name, "w")
+        f = open(dir + raw_file_name, "w")
         f.write(plaintext)
         f.close()
         print("OK: Raw file " + raw_file_name + " was created")
