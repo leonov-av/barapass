@@ -106,7 +106,11 @@ def run_cli(settings):
             raw_file_name = input_value.split(" ")[1]
             container_file_name = input_value.split(" ")[2]
             container_password = stdiomask.getpass(prompt="Container " + container_file_name + " password >> ")
-            make_container_file_from_raw_file(raw_file_name, container_file_name, container_password)
+            container_password2 = stdiomask.getpass(prompt="Repeat container " + container_file_name + " password >> ")
+            if container_password == container_password2:
+                make_container_file_from_raw_file(raw_file_name, container_file_name, container_password)
+            else:
+                print("Error: The entered passwords do not match!")
 
         # Search
         # E.g.: Search Email
